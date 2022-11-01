@@ -1,3 +1,11 @@
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete 🎉
+- [x] Iskelet oluşturma
+- [ ] Arkaplanı (.jpg) resim formatından sadece renge değiştirmek. (RGB(137, 207, 240))
+- [ ] Sesler ekleme.
+- [ ] Spriteları ekleme.
+- [ ] Spriteların görünüşünü placeholder'dan asıl modeline değiştirmek.
+- [ ] Oyuncu spritelarını yerlerine yerleştirmek.
+- [ ] Oyuncu spritelarına hitbox eklemek. ('Rect()')
+- [ ] Topun boşluğa gidince oyunun kaybedilmesini ayarlamak. ('Rect()')
+- [ ] Topun hitboxlara değince sekmesini ayarlama.
+- [ ] PlaceHolderları düzenlemek. (PlaceHolderları kaldırmak vs.)
+- [ ] 
