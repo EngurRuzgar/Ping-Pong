@@ -1,5 +1,5 @@
 - [x] Iskelet oluşturma
-- [ ] Arkaplanı (.jpg) resim formatından sadece renge değiştirmek. (RGB(137, 207, 240))
+- [x] Arkaplanı (.jpg) resim formatından sadece renge değiştirmek. (RGB(137, 207, 240))
 - [ ] Sesler ekleme.
 - [ ] Spriteları ekleme.
 - [ ] Spriteların görünüşünü placeholder'dan asıl modeline değiştirmek.
@@ -8,4 +8,4 @@
 - [ ] Topun boşluğa gidince oyunun kaybedilmesini ayarlamak. ('Rect()')
 - [ ] Topun hitboxlara değince sekmesini ayarlama.
 - [ ] PlaceHolderları düzenlemek. (PlaceHolderları kaldırmak vs.)
-- [ ] 
+
